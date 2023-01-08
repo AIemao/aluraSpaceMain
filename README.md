@@ -42,7 +42,7 @@ Esta solução é baseada no cusrdo Alura - Space.
 - Site simples com imagens estaticas
 - Filtros tags
 - Criação da jsconfig.json para absolute imports "../../"
-- Conhecendo o SASS - estilosGlobais, _variaveis
+- Conhecendo o SASS (.scss) - estilosGlobais, _variaveis
 
 jsconfig.json
 ````JS
