@@ -1,6 +1,6 @@
-# Alura - Curso - React: como os componentes funcionam e React: Desenvolvendo com JS
+# Alura - Curso - React: Lidando com arquivos estáticos
 
-Esta solução é baseada no cusrdo Alura - Organo. 
+Esta solução é baseada no cusrdo Alura - Space. 
 
 ## Índice
 
@@ -11,7 +11,7 @@ Esta solução é baseada no cusrdo Alura - Organo.
    - [Construído com](#construído-com)
    - [O que aprendi](#o-que-aprendi)
    - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
-   - [Recursos úteis](#useful-resources)
+   - [Recursos úteis](#recursos-úteis)
 - [Autor](#autor)
 
 
@@ -19,7 +19,7 @@ Esta solução é baseada no cusrdo Alura - Organo.
 
 ## Visão Geral
 
-### Screenshot
+### Captura de tela
 
 <img src="/public//assets/imagens/FRONT.PNG" alt style="max-width: 100%">
 
@@ -31,7 +31,7 @@ Esta solução é baseada no cusrdo Alura - Organo.
 
 ## Meu processo
 
-### Construido em
+### Construído com
 
 - React
 - SASS
@@ -39,10 +39,10 @@ Esta solução é baseada no cusrdo Alura - Organo.
 
 ### O que aprendi
 
-Site simples com imagens estaticas
-Filtros tags
-Criação da jsconfig.json para absolute imports "../../"
-Conhecendo o SASS - estilosGlobais, _variaveis
+- Site simples com imagens estaticas
+- Filtros tags
+- Criação da jsconfig.json para absolute imports "../../"
+- Conhecendo o SASS - estilosGlobais, _variaveis
 
 jsconfig.json
 ````JS
