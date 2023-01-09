@@ -1,6 +1,6 @@
 # Alura - Curso - React: Lidando com arquivos estáticos
 
-Esta solução é baseada no cusrdo Alura - Space. 
+Esta solução é baseada no curso Alura - Space. 
 
 ## Índice
 
